@@ -1,4 +1,4 @@
 # eventregistration
 ECSE Tutorial - Event Registration Example
 
-test build
+test build2
